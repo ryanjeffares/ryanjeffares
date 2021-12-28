@@ -8,6 +8,6 @@
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanjeffares&count_private=true&" alt="Ryan Jeffares' GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjeffares&layout=compact" alt="Ryan Jeffares' top used languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjeffares&count_private=true&theme=apprentice" alt="Ryan Jeffares' GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjeffares&layout=compact&theme=apprentice" alt="Ryan Jeffares' top used languages"/>
 </p>
