@@ -1,11 +1,6 @@
 ### Ryan Jeffares (he/him)
 
----
-
-- Freelance developer specialising in audio and game dev using C++ and Unity.
-- Learning Rust and language design/compiler infrastructure.
-
----
+rust is copium for people who are scared of pointers
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjeffares&count_private=true&theme=gruvbox" alt="Ryan Jeffares' GitHub stats"/>
