@@ -1,6 +1,6 @@
 ### Ryan Jeffares (he/him)
 
-isnt it crazy that steve albini is just like a guy
+<p align="center">isnt it crazy that steve albini is just like a <b>guy</b></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanjeffares&count_private=true&theme=gruvbox" alt="Ryan Jeffares' GitHub stats"/>
