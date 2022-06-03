@@ -1,5 +1,7 @@
 ### Ryan Jeffares (he/him)
 
+![](https://komarev.com/ghpvc/?username=ryanjeffares)
+
 <p align="center">isnt it crazy that steve albini is just like a <b>guy</b></p>
 
 <p align="center">
